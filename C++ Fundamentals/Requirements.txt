@@ -1,0 +1,16 @@
+Project 1
+
+- Student Assessment Report - 
+
+Write a program that takes details of a student, then asks for his/her scores for three courses. Each course has multipe items of assessment to determine the final grade. Programming course includes 3 assignments, 1 project, 1 midterm and 1 final exam score. Pakistan Studies course includes research work score and final exam score. Calculus includes 2 coursework assignments, a project and a final. The final of each course constitutes 50% of the total grade, while the project consistutes to 10%. Assignments and Midterm scores are to be decided by you. 
+
+A student only gets a GPA if he/she has passed all courses. Greater than 60% total is the passing criteria for each course. If a person has passed all courses, print a full assessment report with grades for each subject and a combined GPA. 
+
+
+GRADE GPA  CRITERIA
+
+A+    4.00  >90
+A     3.67  >=80 
+B     3.33  >=70
+C     3.00  >=60
+U     0.00  <60
